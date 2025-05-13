@@ -1,11 +1,3 @@
-/**
- * @file arraylist_tests.h
- * @author Tristan Rogers & Charles Snider
- * @version 1.0
- * @date 2022-02-12
- *
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

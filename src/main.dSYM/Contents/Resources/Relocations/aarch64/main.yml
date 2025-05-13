@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kyler/Desktop/CS2200/homework_4/src/main'
+relocations:     []
+...
