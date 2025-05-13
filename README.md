@@ -27,7 +27,7 @@ Key functionalities include:
 ## Building
 
 ```bash
-
+# Clone the repository
 # Build the generator and tests
 make
 ```
